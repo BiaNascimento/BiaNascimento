@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65357c6db5d7a4eb01f8f1ee?variant=dark)](https://roadmap.sh)
+
 <!--
 **BiaNascimento/BiaNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
