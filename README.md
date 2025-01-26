@@ -2,9 +2,9 @@
 
 I'm Bianca, a Data Analyst looking for neew challenges!
 
-🔭 Currently working on improving my statistics and math knowledge.
-📕 Studying matplotlib, NumPy and other libraries that will help me with my analysis.
-✒️ Writing some fiction on my free time.
+- 🔭 Currently working on improving my statistics and math knowledge.
+- 📕 Studying matplotlib, NumPy and other libraries that will help me with my analysis.
+- ✒️ Writing some fiction on my free time.
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65357c6db5d7a4eb01f8f1ee?variant=dark" alt="roadmap.sh"/></a>
 
