@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bianca, a Data Analyst looking for neew challenges!
+I'm Bianca, a Data Scientist looking for neew challenges!
 
 - 🔭 Currently working on improving my statistics and math knowledge.
 - 📕 Studying matplotlib, NumPy and other libraries that will help me with my analysis.
