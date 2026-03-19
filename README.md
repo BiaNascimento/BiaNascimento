@@ -1,6 +1,12 @@
 <img src="https://github.com/user-attachments/assets/b3c63d42-49d9-4b76-9452-8e75af947a68" alt="ilustração do octocat pessoal da Bianca" min-width="300px" max-width="300px" width="300px" align="right">
 
- # Oie, eu sou a Bianca Nascimento ⭐
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1> Oie, eu sou a Bianca Nascimento ⭐ </h1>
+    </summary>
+  </ul>
+</div>
 
 **Desenvolvedora Fullstack | Game Designer | JavaScript • TypeScript • React • Node.js • NestJS**
 
@@ -32,21 +38,6 @@ Nativamente curiosa, gosto de entender como as coisas funcionam e usar esse conh
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-
----
-
-##  De onde venho
-
-Antes de mergulhar no desenvolvimento web, atuei por mais de 4 anos como **Game Designer** em
-estúdios como **Main Leaf** e **Fira Soft**, onde:
-
-- Desenvolvi e balanceei sistemas e mecânicas de jogo para múltiplas plataformas
-- Criei documentação técnica para times multidisciplinares
-- Colaborei com clientes nacionais e internacionais em projetos de longo prazo
-- Utilizei **Unity** e **Unreal Engine** para prototipagem e validação de mecânicas
-
-Essa experiência me deu uma base sólida em **lógica de sistemas, resolução de problemas e
-comunicação técnica** — habilidades que aplico diretamente no desenvolvimento de software.
 
 ---
 
