@@ -46,4 +46,3 @@ Nativamente curiosa, gosto de entender como as coisas funcionam e usar esse conh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancanascimento07/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biancanascimentodev@gmail.com)
 
-📍 SP — Aberta a oportunidades remotas e híbridas
